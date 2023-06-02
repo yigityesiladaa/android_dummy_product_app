@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DummyJson</string>
+    <string name="filter">Filter</string>
+    <string name="login">Login</string>
+    <string name="username_et_hint">username</string>
+    <string name="password_et_hint">password</string>
+    <string name="filter_products">Filter Products</string>
+</resources>
