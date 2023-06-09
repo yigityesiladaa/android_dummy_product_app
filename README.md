@@ -18,11 +18,13 @@ Glide | 4.15.1
 
 ## App Gifs
 
-<a ><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_gifs/login.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a ><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_gifs/filter_and_detail.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+Sign In  | Filter And Detail
+------------- | -------------
+<a><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_gifs/login.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a> | <a><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_gifs/filter_and_detail.gif" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a>
 
 ## App Display Images
 
-<a ><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_images/login.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a ><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_images/home.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a ><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_images/detail.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="300" height="600" />&nbsp;&nbsp;&nbsp;&nbsp;</a>
+Sign In Screen | Home Screen | Detail Screen
+------------- | ------------- | -------------
+<a><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_images/login.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a> | <a><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_images/home.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a> | <a><img src="https://github.com/yigityesiladaa/android_dummy_product_app/blob/master/app_images/detail.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400"/></a>
+
